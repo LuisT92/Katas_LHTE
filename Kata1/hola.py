@@ -1,0 +1,6 @@
+print("Hola, como estas?")
+name = input("Por favor, dime tu nombre: ")
+edad = input("Que edad tienes?")
+pais = input("De que pais eres?")
+print("Hola " + name + ", tu edad es " + edad + " y vives en " + pais)
+print("Adios")
